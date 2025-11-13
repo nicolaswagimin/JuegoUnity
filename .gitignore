@@ -20,3 +20,6 @@ sysinfo.txt
 *.suo
 *.tmp
 *.userprefs
+
+# Archivos muy grandes excluidos
+Assets/Character/Zombie/Ch10_nonPBR@Running.fbx
