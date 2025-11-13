@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9a60843eba0f1864796d9d33a1da974d
+  - enabled: 1
+    path: Assets/Scenes/Desierto.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Selva.unity
+    guid: ab30e2683c4052a4ab0751a031ecdb18
+  - enabled: 1
+    path: Assets/Scenes/Nieve.unity
+    guid: c83504d6cc80cab4ebde960107474f36
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
